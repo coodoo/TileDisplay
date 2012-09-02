@@ -1,0 +1,9 @@
+/bin-debug
+/bin-release-temp
+.DS_Store
+.actionScriptProperties
+.flexProperties
+/build/AppShelf.swf
+/build/AppShelf.ipa
+!.gitignore
+.settings
